@@ -1,0 +1,19 @@
+.custom-toast {
+  color: #2c2726;
+  font-size: 3vh;
+  background-color: #ffb347;
+  text-align: center;
+  border-radius: 1vh;
+}
+
+.invalid-credentials-toast {
+  color: red;
+  font-size: 3vh;
+  background-color: white;
+  text-align: center;
+  border-radius: 1vh;
+}
+
+.custom-popup {
+  text-align: left;
+}
